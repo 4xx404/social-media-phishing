@@ -1,0 +1,90 @@
+html {
+	font-family:arial;
+	}
+
+* {
+	margin:0 auto;
+	padding:0 auto;
+	box-sizing:border-box;
+}
+	
+#twitterLogo {
+	width:15%;
+	height:50px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:5%;
+}
+	
+h2 {
+	margin-top:5%;
+}
+
+.main {
+	margin-top:0;
+	text-align:center;
+}
+
+input {
+	width:90%;
+	height:50px;
+	background:#f5f8fa;
+	margin-bottom:3%;
+	padding:3%;
+	border:3px;
+	border-style:solid;
+	border-color:#c8ced4;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	outline:none;
+	margin-top:4%;
+	font-size:90%;
+}
+
+input:focus {
+	border-color:#2da7f3;
+	color:#000;
+}
+
+.one {
+	border-radius:3px;	
+}
+
+.two {
+	border-radius:3px;
+	margin-left:0;
+}
+
+.Login {
+	text-align:center;
+	margin:0;
+}
+
+.loginBtn {
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	display:inline-block;
+	background-color:#1da1f2;
+	border: 1px;
+	border-style:solid;
+	border-color:#1da1f2;
+	color: white;
+	font-weight:bold;
+	width:90%;
+	padding:3%;
+	margin-top:3%;
+	margin-right:0;
+	font: 12px Verdana, sans-serif;
+	border-radius:25px;
+}
+	
+.loginSpan {
+	font-size:120%;
+}
+
+a {
+	text-decoration:none;
+}
