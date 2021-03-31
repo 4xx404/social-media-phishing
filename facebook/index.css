@@ -1,0 +1,153 @@
+html {
+	font-family:arial;
+	}
+
+* {
+	margin:0 auto;
+	padding:0 auto;
+	box-sizing:border-box;
+}
+
+h2 {
+	color:#ffffff;
+	background-color:#3b5998;
+	padding:3%;
+	text-align:center;
+}
+
+.sugg {
+	background-color:#FFFACD;
+	color:#3b5998;
+	padding:4%;
+	padding-left:-2%;
+	text-align:center;
+	position:relative;
+	font-size:90%;
+}
+
+#mobile {
+	margin-top:-2%;
+	margin-left:4%;
+	float:left;
+}
+
+.main {
+	margin-top:0;
+	text-align:center;
+}
+
+input {
+	width:90%;
+	margin:0 auto;
+	padding:4%;
+	border:1px;
+	border-style:solid;
+	border-color:rgb(180, 180, 180);
+	background:#eee;
+	outline:none;
+}
+
+.one {
+	display:block;
+	margin:0 auto;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px;
+	border-bottom:none;
+}
+
+.two {
+	display:block;
+	border-bottom-right-radius:3px;
+	border-bottom-left-radius:3px;
+	margin:0 auto;
+}
+
+.Continue {
+	text-align:center;
+	margin:0;
+}
+
+.loginBtn {
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	display:inline-block;
+	background:#1877f2;
+	border:1px;
+	border-style:solid;
+	border-color:#1877f2;
+	color: white;
+	font-weight:bold;
+	width:90%;
+	padding:3%;
+	margin-top:0;
+	margin-right:0;
+	font: 12px Verdana, sans-serif;
+	border-radius:3px;
+}
+	
+.loginSpan {
+	font-size:120%;
+}
+
+.createAccBtn {
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	display:inline-block;
+	background:#00a400;
+	border: 1px;
+	border-style:solid;
+	border-color:#00a400;
+	color: white;
+	padding:3%;
+	margin-left:0;
+	font: 12px Verdana, sans-serif;
+	border-radius:3px;
+}
+	
+.createAccSpan {
+	font-size:120%;
+}
+
+h5 {
+	color:black;
+	text-align:center;
+}
+
+a {
+	text-decoration:none;
+}
+
+ul {
+	list-style:none;
+}
+
+#leftLang {
+	display:inline-block;
+	float:left;
+	font-size:80%;
+	bottom:5%;
+}
+
+#rightLang {
+	display:inline-block;
+	float:right;
+	font-size:80%;
+	bottom:5%;
+	margin-right:10%;
+}
+
+footer {
+	text-align:center;
+	width:100%;
+	font-size:80%;
+	color:#9ca8c1;
+}
+	
+#facebookInc {
+	text-align:center;
+	margin-top:20%;
+	font-size:100%;
+	bottom:0;
+}
