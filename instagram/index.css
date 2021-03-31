@@ -1,0 +1,170 @@
+html {
+	font-family:arial;
+}
+
+* {
+	margin:0 auto;
+	padding:0 auto;
+	box-sizing:border-box;
+}
+
+h4 {
+	color:#ffffff;
+	background:#bc1888;
+	background:-moz-linear-gradient(45deg, #bc1888 0%, #cc2366 25%, #dc2743 50%, #e6683c 75%, #f09433 100%);
+	background:-webkit-linear-gradient(45deg, #bc1888 0%, #cc2366 25%, #dc2743 50%, #e6683c 75%, #f09433 100%);
+	background:linear-gradient(45deg, #bc1888 0%, #cc2366 25%, #dc2743 50%, #e6683c 75%, #f09433 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#bc1888', endColorstr='#f09433',GradientType=1 );
+	padding:3%;
+	padding-left:6%;
+	text-align:left;
+	display:block;
+}
+	
+#banner {
+	font-size:80%;
+	text-align:left;
+}
+
+#getInsta {
+	float:right;
+	margin-top:-10%;
+	margin-right:3%;
+	width:15%;
+	height:30px;
+	background:none;
+	color:#fff;
+	border:1px;
+	border-style:solid;
+	border-color:#fff;
+	border-radius:3px;
+	text-align:center;
+	padding:2%;
+	font-style:bold;
+}
+
+.lang {
+	background-color:#FFF;
+	color:#55799c;
+	padding:3%;
+	text-align:center;
+	position:relative;
+	font-size:80%;
+	margin-top:0;
+}
+
+#menuDots {
+	position:absolute;
+	margin-top:0;
+	right:92.5%;
+	font-size:110%;
+	color:#777;
+}
+	
+#instaLogo {
+	width:60%;
+	height:80px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-5%;
+}
+
+#fbBtn {
+	padding:2%;
+	font-size:160%;
+}
+
+#continueFacebook {
+	width:90%;
+	height:35px;
+	font-size:90%;
+	margin-top:-5%;
+	background-color:#0095f6;
+	color:#fff;
+	border:1px;
+	border-style:solid;
+	border-color:#0095f6;
+	border-radius:3px;
+	padding-bottom:10%;
+}
+
+.main {
+	margin-top:0;
+	text-align:center;
+	}
+
+input {
+	width:90%;
+	padding:3%;
+	border:1px;
+	border-style:solid;
+	color:#000;
+	background:#fafafa;
+	margin-bottom:3%;
+	outline:none;
+}
+
+.one {
+	border-radius:3px;
+}
+
+.two {
+	border-radius:3px;
+	margin-left:0;
+}
+
+.Login {
+	text-align:center;
+	margin:0;
+}
+
+.loginBtn {
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	display:inline-block;
+	background-color:#0095f6;
+	border: 1px;
+	border-style:solid;
+	border-color:#0095f6;
+	color: white;
+	font-weight:bold;
+	width:90%;
+	padding:3%;
+	margin-top:0;
+	margin-right:0;
+	font: 12px Verdana, sans-serif;
+	border-radius:3px;
+}
+	
+.loginSpan {
+	font-size:120%;
+}
+
+h5 {
+	color:black;
+	text-align:center;
+}
+
+a {
+	text-decoration:none;
+}
+
+footer {
+	text-align:center;
+	width:100%;
+	bottom:0;
+	font-size:80%;
+	color:#0095f6;
+	border:1px;
+	border-style:solid;
+	border-color:#969696;
+	border-left:none;
+	border-right:none;
+}
+
+#facebookInc {
+	font-size:110%;
+	color:#000;
+}
